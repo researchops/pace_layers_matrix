@@ -7,4 +7,4 @@ With user research becoming more common within organisations, there is an emergi
 Like all work produced by the ResearchOps Community, this information is available for use and reuse by Creative Commons Sharealike 4.0 License (see: https://creativecommons.org/licenses/by-sa/4.0/)
 This workshop was run for the first time at EPIC 2020 (details available here: https://2020.epicpeople.org/tutorial-scaling-research-in-organizations/)
 A full paper about the theory of the Pace Layers Matrix is available for public download on the EPIC website: https://www.epicpeople.org/epic/
-As this is a new, and very complex workshop, we welcome feedback and suggestions. Please tell s here, email us at teamreops@gmail.com or tweet us @teamreops 
+As this is a new, and very complex workshop, we welcome feedback and suggestions. Please tell us here, email us at teamreops@gmail.com or tweet us @teamreops 

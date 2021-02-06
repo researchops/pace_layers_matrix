@@ -1,2 +1,5 @@
 # pace_layers_matrix
 These are the CC Sharealike licensed workshop materials from the Pace Layers Matrix workshop on using the 8 pillars of UR and a pace layers framework to help create a future strategy and forward work plan for UR
+With user research becoming more common within organisations, there is an emerging issue of meeting demand whilst also developing the craft of research. A new profession is emerging in response – research operations. This repository uses two frameworks, which, once combined, creates a matrix that provides the tools to identify an investment strategy for research within the context of an organisation and their strategic goals.  This matrix provides a significant contribution to the field by making it possible to be strategic and proactive about developing research practices in the  context of individual organisations, how and why they do research, and to better manage the tension between scale and craft. 
+#ResearchOps #UX #Strategy
+Like all work produced by the ResearchOps Community, this information is available for use and reuse by Creative Commons Sharealike 4.0 License (see: https://creativecommons.org/licenses/by-sa/4.0/)
